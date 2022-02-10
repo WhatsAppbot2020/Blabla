@@ -1,4 +1,4 @@
-name: ZenitsuPrjkt
+name: amazonRDP
 
 on: workflow_dispatch
 
